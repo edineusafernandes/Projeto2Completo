@@ -1,6 +1,8 @@
-# Introdução
+Introdução
 
-## Este projeto tem como objetivo criar uma aplicação Django funcional, 
+Atividade do módulo de Django do Bootcamp Python oferecido pela XP através do IGTI.
+
+ Este projeto tem como objetivo criar uma aplicação Django funcional, 
 desde a configuração básica até o desenvolvimento de páginas dinâmicas 
 utilizando o modelo MVP (Model View Presenter). 
 Iniciamos verificando a versão do Python, criando e ativando um ambiente virtual, 
